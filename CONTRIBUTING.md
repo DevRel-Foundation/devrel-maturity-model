@@ -43,6 +43,18 @@ Review the [Open GitHub Issues](https://github.com/DevRel-Foundation/wg-resource
 
 Use GitHub Discussions, Discord, or join one of our monthly working group calls to brainstorm and ask questions about how to contribute.
 
+### Branch Naming Convention
+
+To help with managing large projects, there is preference for the following branch naming convention:
+
+```
+dev/$issue/$short-kebab-description
+
+or
+
+dev/$issue/$username
+```
+
 ## Review Process
 
 Our review process is informal so we'll add guidelines here as we learn. We maintain the right to refuse accepting any content deemed inappropriate.
