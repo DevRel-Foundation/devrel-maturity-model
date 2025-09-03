@@ -8,7 +8,7 @@ The definition and tactics of Developer Relations has a high degree of variance 
 
 This repository is maintained with support of the [Resource and Asset Aggregation Working Group](https://github.com/DevRel-Foundation/wg-resource-aggregation) and Developer Relations Foundation.
 
-* [Contributing]()
+* [Contributing](./CONTRIBUTING.md)
 * [Report Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues)
 * [Questions & Feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/devrel-maturity-model)
 
