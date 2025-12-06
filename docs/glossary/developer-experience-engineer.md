@@ -1,9 +1,9 @@
 term: Developer Experience Engineer
+version: 1.0.0
 ---
 
-# Developer Experience Engineer
+A Developer Experience Engineer is a typical role within Developer Relations programs that has a responsibility for providing resources that aid with the successful adoption of a developer product.
 
-A Developer Experience Engineer is an engineering role dedicated to improving the technical aspects of the developer journey.
+Developer Experience Engineers are typically engineering roles that focus on the creation of SDKs, CLIs, UIs, Docs, etc. that are important for software developers to succeed in adopting a technology but may be accessories to the core product.
 
-They build and maintain the tools, SDKs, CLIs, and integrations that developers use. They also often work on improving documentation infrastructure and sample code to ensure that the technical barrier to entry is as low as possible.
-
+Often synonymous with Developer Relations Engineer.
